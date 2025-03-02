@@ -1,0 +1,862 @@
+------------------------------LABEL DETECTION----------------------------------
+Processing 'CAPYBARA FAMILY' for label detection...
+Label detection results:
+Label: leopard, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.45
+Label: terrestrial animal, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.70
+Label: animal, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.96
+Label: nature reserve, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.36
+Label: capybara, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.36
+Label: rodent, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.52
+Label: nature, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.94
+Label: wildlife, Segment: 0.0.0.0, to 80.6806.80.6806, Confidence: 0.98
+Processing 'RAINBOW DASH EATS DIRT' for label detection...
+Label detection results:
+Label: fiction, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.51
+Label: graphic design, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.39
+Label: fictional character, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.87
+Label: animated cartoon, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.97
+Label: illustration, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.85
+Label: my little pony, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.97
+Label: graphics, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.33
+Label: pony, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.97
+Label: my little pony- friendship is magic, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.87
+Label: animation, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.90
+Label: art, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.35
+Label: anime, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.31
+Label: animal, Segment: 0.0.0.0, to 8.958334.8.958334, Confidence: 0.78
+Processing 'USYK-FURY HIGHLIGHTS' for label detection...
+Label detection results:
+Label: audience, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.90
+Label: crowd, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.99
+Label: boxing, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.97
+Label: aggression, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.69
+Label: sport venue, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.93
+Label: grappling, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.30
+Label: strike, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.43
+Label: combat sport, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.86
+Label: games, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.68
+Label: people, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.47
+Label: professional boxing, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.77
+Label: boxing glove, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.72
+Label: stadium, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.49
+Label: player, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.92
+Label: sports, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.96
+Label: contact sport, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.95
+Label: combat, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.95
+Label: striking combat sports, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.90
+Label: boxing ring, Segment: 0.0.0.0, to 195.64.195.64, Confidence: 0.58
+Processing 'OUTDOOR BOYS LAWYER AD' for label detection...
+Label detection results:
+Label: library, Segment: 0.0.0.0, to 58.825433.58.825433, Confidence: 0.73
+Processing 'METALLICA MUSIC VIDEO' for label detection...
+Label detection results:
+
+------------------------------EXPLICIT CONTENT----------------------------------
+Processing 'CAPYBARA FAMILY' for explicit content detection...
+Explicit content detection results:
+Time: 0.62s, Likelihood: VERY_UNLIKELY
+Time: 1.82s, Likelihood: VERY_UNLIKELY
+Time: 2.73s, Likelihood: VERY_UNLIKELY
+Time: 3.88s, Likelihood: VERY_UNLIKELY
+Time: 5.01s, Likelihood: VERY_UNLIKELY
+Time: 5.93s, Likelihood: VERY_UNLIKELY
+Time: 6.89s, Likelihood: VERY_UNLIKELY
+Time: 8.04s, Likelihood: VERY_UNLIKELY
+Time: 8.99s, Likelihood: VERY_UNLIKELY
+Time: 9.82s, Likelihood: VERY_UNLIKELY
+Time: 10.72s, Likelihood: VERY_UNLIKELY
+Time: 11.61s, Likelihood: VERY_UNLIKELY
+Time: 12.80s, Likelihood: VERY_UNLIKELY
+Time: 13.68s, Likelihood: VERY_UNLIKELY
+Time: 14.79s, Likelihood: VERY_UNLIKELY
+Time: 15.79s, Likelihood: VERY_UNLIKELY
+Time: 16.71s, Likelihood: VERY_UNLIKELY
+Time: 17.53s, Likelihood: VERY_UNLIKELY
+Time: 18.71s, Likelihood: VERY_UNLIKELY
+Time: 19.88s, Likelihood: VERY_UNLIKELY
+Time: 20.73s, Likelihood: VERY_UNLIKELY
+Time: 21.82s, Likelihood: VERY_UNLIKELY
+Time: 22.98s, Likelihood: VERY_UNLIKELY
+Time: 23.85s, Likelihood: VERY_UNLIKELY
+Time: 24.96s, Likelihood: VERY_UNLIKELY
+Time: 25.98s, Likelihood: VERY_UNLIKELY
+Time: 26.92s, Likelihood: VERY_UNLIKELY
+Time: 28.03s, Likelihood: VERY_UNLIKELY
+Time: 28.96s, Likelihood: VERY_UNLIKELY
+Time: 30.11s, Likelihood: VERY_UNLIKELY
+Time: 31.21s, Likelihood: VERY_UNLIKELY
+Time: 32.04s, Likelihood: VERY_UNLIKELY
+Time: 33.06s, Likelihood: VERY_UNLIKELY
+Time: 34.17s, Likelihood: VERY_UNLIKELY
+Time: 35.25s, Likelihood: UNLIKELY
+Time: 36.36s, Likelihood: VERY_UNLIKELY
+Time: 37.47s, Likelihood: VERY_UNLIKELY
+Time: 38.40s, Likelihood: VERY_UNLIKELY
+Time: 39.46s, Likelihood: VERY_UNLIKELY
+Time: 40.59s, Likelihood: VERY_UNLIKELY
+Time: 41.69s, Likelihood: VERY_UNLIKELY
+Time: 42.73s, Likelihood: VERY_UNLIKELY
+Time: 43.62s, Likelihood: VERY_UNLIKELY
+Time: 44.48s, Likelihood: VERY_UNLIKELY
+Time: 45.65s, Likelihood: VERY_UNLIKELY
+Time: 46.77s, Likelihood: VERY_UNLIKELY
+Time: 47.67s, Likelihood: VERY_UNLIKELY
+Time: 48.86s, Likelihood: VERY_UNLIKELY
+Time: 49.69s, Likelihood: VERY_UNLIKELY
+Time: 50.62s, Likelihood: VERY_UNLIKELY
+Time: 51.73s, Likelihood: VERY_UNLIKELY
+Time: 52.58s, Likelihood: VERY_UNLIKELY
+Time: 53.49s, Likelihood: VERY_UNLIKELY
+Time: 54.66s, Likelihood: VERY_UNLIKELY
+Time: 55.47s, Likelihood: VERY_UNLIKELY
+Time: 56.65s, Likelihood: VERY_UNLIKELY
+Time: 57.66s, Likelihood: VERY_UNLIKELY
+Time: 58.72s, Likelihood: VERY_UNLIKELY
+Time: 59.76s, Likelihood: VERY_UNLIKELY
+Time: 60.81s, Likelihood: VERY_UNLIKELY
+Time: 61.62s, Likelihood: VERY_UNLIKELY
+Time: 62.70s, Likelihood: VERY_UNLIKELY
+Time: 63.74s, Likelihood: VERY_UNLIKELY
+Time: 64.86s, Likelihood: VERY_UNLIKELY
+Time: 65.90s, Likelihood: VERY_UNLIKELY
+Time: 66.93s, Likelihood: VERY_UNLIKELY
+Time: 68.04s, Likelihood: VERY_UNLIKELY
+Time: 69.01s, Likelihood: VERY_UNLIKELY
+Time: 70.03s, Likelihood: VERY_UNLIKELY
+Time: 71.08s, Likelihood: VERY_UNLIKELY
+Time: 72.12s, Likelihood: VERY_UNLIKELY
+Time: 73.25s, Likelihood: VERY_UNLIKELY
+Time: 74.34s, Likelihood: VERY_UNLIKELY
+Time: 75.19s, Likelihood: VERY_UNLIKELY
+Time: 76.30s, Likelihood: VERY_UNLIKELY
+Time: 77.50s, Likelihood: VERY_UNLIKELY
+Time: 78.63s, Likelihood: VERY_UNLIKELY
+Time: 79.63s, Likelihood: VERY_UNLIKELY
+Processing 'RAINBOW DASH EATS DIRT' for explicit content detection...
+Explicit content detection results:
+Time: 0.25s, Likelihood: LIKELY
+Time: 1.45s, Likelihood: UNLIKELY
+Time: 2.63s, Likelihood: UNLIKELY
+Time: 3.83s, Likelihood: UNLIKELY
+Time: 4.69s, Likelihood: UNLIKELY
+Time: 5.55s, Likelihood: VERY_UNLIKELY
+Time: 6.38s, Likelihood: UNLIKELY
+Time: 7.22s, Likelihood: VERY_UNLIKELY
+Time: 8.14s, Likelihood: UNLIKELY
+Processing 'USYK-FURY HIGHLIGHTS' for explicit content detection...
+Explicit content detection results:
+Time: 0.39s, Likelihood: VERY_UNLIKELY
+Time: 1.44s, Likelihood: VERY_UNLIKELY
+Time: 2.27s, Likelihood: VERY_UNLIKELY
+Time: 3.12s, Likelihood: VERY_UNLIKELY
+Time: 4.24s, Likelihood: VERY_UNLIKELY
+Time: 5.28s, Likelihood: VERY_UNLIKELY
+Time: 6.14s, Likelihood: VERY_UNLIKELY
+Time: 7.07s, Likelihood: UNLIKELY
+Time: 7.90s, Likelihood: VERY_UNLIKELY
+Time: 8.89s, Likelihood: VERY_UNLIKELY
+Time: 9.97s, Likelihood: VERY_UNLIKELY
+Time: 10.85s, Likelihood: UNLIKELY
+Time: 11.99s, Likelihood: UNLIKELY
+Time: 13.11s, Likelihood: UNLIKELY
+Time: 14.03s, Likelihood: UNLIKELY
+Time: 14.87s, Likelihood: VERY_UNLIKELY
+Time: 15.79s, Likelihood: UNLIKELY
+Time: 16.87s, Likelihood: UNLIKELY
+Time: 17.95s, Likelihood: VERY_UNLIKELY
+Time: 19.11s, Likelihood: VERY_UNLIKELY
+Time: 19.92s, Likelihood: VERY_UNLIKELY
+Time: 20.96s, Likelihood: UNLIKELY
+Time: 21.77s, Likelihood: UNLIKELY
+Time: 22.71s, Likelihood: UNLIKELY
+Time: 23.81s, Likelihood: UNLIKELY
+Time: 24.83s, Likelihood: VERY_UNLIKELY
+Time: 25.73s, Likelihood: VERY_UNLIKELY
+Time: 26.53s, Likelihood: VERY_UNLIKELY
+Time: 27.66s, Likelihood: UNLIKELY
+Time: 28.71s, Likelihood: VERY_UNLIKELY
+Time: 29.63s, Likelihood: POSSIBLE
+Time: 30.48s, Likelihood: UNLIKELY
+Time: 31.49s, Likelihood: UNLIKELY
+Time: 32.52s, Likelihood: POSSIBLE
+Time: 33.57s, Likelihood: UNLIKELY
+Time: 34.54s, Likelihood: POSSIBLE
+Time: 35.67s, Likelihood: VERY_LIKELY
+Time: 36.60s, Likelihood: LIKELY
+Time: 37.56s, Likelihood: VERY_LIKELY
+Time: 38.76s, Likelihood: POSSIBLE
+Time: 39.71s, Likelihood: UNLIKELY
+Time: 40.66s, Likelihood: LIKELY
+Time: 41.71s, Likelihood: UNLIKELY
+Time: 42.68s, Likelihood: POSSIBLE
+Time: 43.81s, Likelihood: VERY_LIKELY
+Time: 44.89s, Likelihood: LIKELY
+Time: 45.75s, Likelihood: POSSIBLE
+Time: 46.75s, Likelihood: LIKELY
+Time: 47.60s, Likelihood: LIKELY
+Time: 48.79s, Likelihood: POSSIBLE
+Time: 49.74s, Likelihood: POSSIBLE
+Time: 50.92s, Likelihood: VERY_UNLIKELY
+Time: 51.92s, Likelihood: VERY_UNLIKELY
+Time: 53.11s, Likelihood: VERY_UNLIKELY
+Time: 53.95s, Likelihood: UNLIKELY
+Time: 55.03s, Likelihood: UNLIKELY
+Time: 56.04s, Likelihood: UNLIKELY
+Time: 56.99s, Likelihood: UNLIKELY
+Time: 57.82s, Likelihood: UNLIKELY
+Time: 58.92s, Likelihood: UNLIKELY
+Time: 59.86s, Likelihood: POSSIBLE
+Time: 60.86s, Likelihood: VERY_UNLIKELY
+Time: 61.73s, Likelihood: UNLIKELY
+Time: 62.88s, Likelihood: UNLIKELY
+Time: 64.02s, Likelihood: UNLIKELY
+Time: 64.86s, Likelihood: POSSIBLE
+Time: 65.74s, Likelihood: UNLIKELY
+Time: 66.65s, Likelihood: UNLIKELY
+Time: 67.57s, Likelihood: UNLIKELY
+Time: 68.49s, Likelihood: POSSIBLE
+Time: 69.47s, Likelihood: UNLIKELY
+Time: 70.30s, Likelihood: UNLIKELY
+Time: 71.42s, Likelihood: UNLIKELY
+Time: 72.58s, Likelihood: UNLIKELY
+Time: 73.43s, Likelihood: UNLIKELY
+Time: 74.26s, Likelihood: UNLIKELY
+Time: 75.17s, Likelihood: POSSIBLE
+Time: 76.26s, Likelihood: UNLIKELY
+Time: 77.14s, Likelihood: POSSIBLE
+Time: 78.31s, Likelihood: POSSIBLE
+Time: 79.16s, Likelihood: POSSIBLE
+Time: 80.19s, Likelihood: UNLIKELY
+Time: 81.20s, Likelihood: UNLIKELY
+Time: 82.38s, Likelihood: UNLIKELY
+Time: 83.57s, Likelihood: UNLIKELY
+Time: 84.52s, Likelihood: UNLIKELY
+Time: 85.49s, Likelihood: UNLIKELY
+Time: 86.37s, Likelihood: UNLIKELY
+Time: 87.25s, Likelihood: UNLIKELY
+Time: 88.28s, Likelihood: UNLIKELY
+Time: 89.12s, Likelihood: UNLIKELY
+Time: 89.98s, Likelihood: UNLIKELY
+Time: 91.18s, Likelihood: UNLIKELY
+Time: 91.99s, Likelihood: UNLIKELY
+Time: 92.91s, Likelihood: UNLIKELY
+Time: 93.87s, Likelihood: UNLIKELY
+Time: 95.01s, Likelihood: VERY_UNLIKELY
+Time: 95.94s, Likelihood: UNLIKELY
+Time: 97.10s, Likelihood: UNLIKELY
+Time: 98.18s, Likelihood: VERY_UNLIKELY
+Time: 99.17s, Likelihood: UNLIKELY
+Time: 100.28s, Likelihood: UNLIKELY
+Time: 101.22s, Likelihood: UNLIKELY
+Time: 102.11s, Likelihood: UNLIKELY
+Time: 102.98s, Likelihood: UNLIKELY
+Time: 104.03s, Likelihood: UNLIKELY
+Time: 105.19s, Likelihood: UNLIKELY
+Time: 106.19s, Likelihood: UNLIKELY
+Time: 107.19s, Likelihood: POSSIBLE
+Time: 108.12s, Likelihood: POSSIBLE
+Time: 109.13s, Likelihood: VERY_UNLIKELY
+Time: 110.17s, Likelihood: UNLIKELY
+Time: 111.27s, Likelihood: UNLIKELY
+Time: 112.21s, Likelihood: UNLIKELY
+Time: 113.28s, Likelihood: UNLIKELY
+Time: 114.45s, Likelihood: VERY_UNLIKELY
+Time: 115.50s, Likelihood: VERY_UNLIKELY
+Time: 116.57s, Likelihood: UNLIKELY
+Time: 117.63s, Likelihood: UNLIKELY
+Time: 118.78s, Likelihood: UNLIKELY
+Time: 119.89s, Likelihood: UNLIKELY
+Time: 120.94s, Likelihood: UNLIKELY
+Time: 121.87s, Likelihood: UNLIKELY
+Time: 122.84s, Likelihood: VERY_UNLIKELY
+Time: 123.83s, Likelihood: UNLIKELY
+Time: 125.00s, Likelihood: UNLIKELY
+Time: 126.10s, Likelihood: LIKELY
+Time: 127.27s, Likelihood: UNLIKELY
+Time: 128.11s, Likelihood: LIKELY
+Time: 129.23s, Likelihood: UNLIKELY
+Time: 130.08s, Likelihood: UNLIKELY
+Time: 131.12s, Likelihood: UNLIKELY
+Time: 132.24s, Likelihood: UNLIKELY
+Time: 133.29s, Likelihood: VERY_UNLIKELY
+Time: 134.47s, Likelihood: UNLIKELY
+Time: 135.51s, Likelihood: VERY_UNLIKELY
+Time: 136.53s, Likelihood: VERY_UNLIKELY
+Time: 137.62s, Likelihood: VERY_UNLIKELY
+Time: 138.54s, Likelihood: VERY_UNLIKELY
+Time: 139.47s, Likelihood: VERY_UNLIKELY
+Time: 140.37s, Likelihood: VERY_UNLIKELY
+Time: 141.30s, Likelihood: VERY_UNLIKELY
+Time: 142.30s, Likelihood: UNLIKELY
+Time: 143.24s, Likelihood: VERY_UNLIKELY
+Time: 144.23s, Likelihood: UNLIKELY
+Time: 145.12s, Likelihood: VERY_UNLIKELY
+Time: 146.32s, Likelihood: UNLIKELY
+Time: 147.24s, Likelihood: VERY_UNLIKELY
+Time: 148.26s, Likelihood: VERY_UNLIKELY
+Time: 149.20s, Likelihood: VERY_UNLIKELY
+Time: 150.16s, Likelihood: VERY_UNLIKELY
+Time: 151.12s, Likelihood: VERY_UNLIKELY
+Time: 152.09s, Likelihood: VERY_UNLIKELY
+Time: 153.19s, Likelihood: UNLIKELY
+Time: 154.10s, Likelihood: VERY_UNLIKELY
+Time: 154.92s, Likelihood: UNLIKELY
+Time: 155.97s, Likelihood: UNLIKELY
+Time: 157.01s, Likelihood: UNLIKELY
+Time: 158.15s, Likelihood: UNLIKELY
+Time: 159.25s, Likelihood: UNLIKELY
+Time: 160.33s, Likelihood: UNLIKELY
+Time: 161.49s, Likelihood: POSSIBLE
+Time: 162.52s, Likelihood: UNLIKELY
+Time: 163.58s, Likelihood: POSSIBLE
+Time: 164.51s, Likelihood: POSSIBLE
+Time: 165.47s, Likelihood: UNLIKELY
+Time: 166.34s, Likelihood: UNLIKELY
+Time: 167.19s, Likelihood: UNLIKELY
+Time: 168.20s, Likelihood: UNLIKELY
+Time: 169.26s, Likelihood: UNLIKELY
+Time: 170.40s, Likelihood: UNLIKELY
+Time: 171.53s, Likelihood: VERY_UNLIKELY
+Time: 172.34s, Likelihood: VERY_UNLIKELY
+Time: 173.44s, Likelihood: VERY_UNLIKELY
+Time: 174.63s, Likelihood: VERY_UNLIKELY
+Time: 175.47s, Likelihood: VERY_UNLIKELY
+Time: 176.41s, Likelihood: VERY_UNLIKELY
+Time: 177.61s, Likelihood: UNLIKELY
+Time: 178.64s, Likelihood: UNLIKELY
+Time: 179.61s, Likelihood: UNLIKELY
+Time: 180.70s, Likelihood: VERY_UNLIKELY
+Time: 181.71s, Likelihood: VERY_UNLIKELY
+Time: 182.66s, Likelihood: VERY_UNLIKELY
+Time: 183.60s, Likelihood: VERY_UNLIKELY
+Time: 184.70s, Likelihood: VERY_UNLIKELY
+Time: 185.53s, Likelihood: VERY_UNLIKELY
+Time: 186.73s, Likelihood: VERY_UNLIKELY
+Time: 187.76s, Likelihood: VERY_UNLIKELY
+Time: 188.77s, Likelihood: VERY_UNLIKELY
+Time: 189.61s, Likelihood: VERY_UNLIKELY
+Time: 190.66s, Likelihood: VERY_UNLIKELY
+Time: 191.63s, Likelihood: VERY_UNLIKELY
+Time: 192.75s, Likelihood: VERY_UNLIKELY
+Time: 193.89s, Likelihood: VERY_UNLIKELY
+Time: 194.70s, Likelihood: VERY_UNLIKELY
+Time: 195.54s, Likelihood: VERY_UNLIKELY
+Processing 'OUTDOOR BOYS LAWYER AD' for explicit content detection...
+Explicit content detection results:
+Time: 0.11s, Likelihood: VERY_UNLIKELY
+Time: 1.29s, Likelihood: VERY_UNLIKELY
+Time: 2.48s, Likelihood: VERY_UNLIKELY
+Time: 3.60s, Likelihood: VERY_UNLIKELY
+Time: 4.56s, Likelihood: VERY_UNLIKELY
+Time: 5.53s, Likelihood: VERY_UNLIKELY
+Time: 6.37s, Likelihood: VERY_UNLIKELY
+Time: 7.38s, Likelihood: VERY_UNLIKELY
+Time: 8.47s, Likelihood: VERY_UNLIKELY
+Time: 9.40s, Likelihood: VERY_UNLIKELY
+Time: 10.26s, Likelihood: VERY_UNLIKELY
+Time: 11.39s, Likelihood: VERY_UNLIKELY
+Time: 12.34s, Likelihood: VERY_UNLIKELY
+Time: 13.33s, Likelihood: VERY_UNLIKELY
+Time: 14.48s, Likelihood: VERY_UNLIKELY
+Time: 15.29s, Likelihood: VERY_UNLIKELY
+Time: 16.43s, Likelihood: VERY_UNLIKELY
+Time: 17.56s, Likelihood: VERY_UNLIKELY
+Time: 18.62s, Likelihood: VERY_UNLIKELY
+Time: 19.55s, Likelihood: VERY_UNLIKELY
+Time: 20.72s, Likelihood: VERY_UNLIKELY
+Time: 21.71s, Likelihood: UNLIKELY
+Time: 22.76s, Likelihood: VERY_UNLIKELY
+Time: 23.93s, Likelihood: VERY_UNLIKELY
+Time: 24.95s, Likelihood: VERY_UNLIKELY
+Time: 25.77s, Likelihood: VERY_UNLIKELY
+Time: 26.79s, Likelihood: VERY_UNLIKELY
+Time: 27.88s, Likelihood: VERY_UNLIKELY
+Time: 28.69s, Likelihood: VERY_UNLIKELY
+Time: 29.52s, Likelihood: VERY_UNLIKELY
+Time: 30.40s, Likelihood: VERY_UNLIKELY
+Time: 31.52s, Likelihood: VERY_UNLIKELY
+Time: 32.71s, Likelihood: VERY_UNLIKELY
+Time: 33.79s, Likelihood: VERY_UNLIKELY
+Time: 34.89s, Likelihood: VERY_UNLIKELY
+Time: 35.73s, Likelihood: VERY_UNLIKELY
+Time: 36.83s, Likelihood: VERY_UNLIKELY
+Time: 37.73s, Likelihood: VERY_UNLIKELY
+Time: 38.66s, Likelihood: VERY_UNLIKELY
+Time: 39.50s, Likelihood: VERY_UNLIKELY
+Time: 40.68s, Likelihood: VERY_UNLIKELY
+Time: 41.75s, Likelihood: VERY_UNLIKELY
+Time: 42.59s, Likelihood: VERY_UNLIKELY
+Time: 43.73s, Likelihood: VERY_UNLIKELY
+Time: 44.74s, Likelihood: VERY_UNLIKELY
+Time: 45.63s, Likelihood: VERY_UNLIKELY
+Time: 46.69s, Likelihood: UNLIKELY
+Time: 47.74s, Likelihood: VERY_UNLIKELY
+Time: 48.92s, Likelihood: VERY_UNLIKELY
+Time: 49.95s, Likelihood: VERY_UNLIKELY
+Time: 50.84s, Likelihood: VERY_UNLIKELY
+Time: 51.79s, Likelihood: VERY_UNLIKELY
+Time: 52.88s, Likelihood: VERY_UNLIKELY
+Time: 53.79s, Likelihood: VERY_UNLIKELY
+Time: 54.81s, Likelihood: VERY_UNLIKELY
+Time: 55.64s, Likelihood: VERY_UNLIKELY
+Time: 56.77s, Likelihood: VERY_UNLIKELY
+Time: 57.62s, Likelihood: VERY_UNLIKELY
+Time: 58.48s, Likelihood: VERY_UNLIKELY
+Processing 'METALLICA MUSIC VIDEO' for explicit content detection...
+Explicit content detection results:
+Time: 0.99s, Likelihood: VERY_UNLIKELY
+Time: 1.92s, Likelihood: VERY_UNLIKELY
+Time: 2.75s, Likelihood: VERY_UNLIKELY
+Time: 3.86s, Likelihood: UNLIKELY
+Time: 4.92s, Likelihood: POSSIBLE
+Time: 5.91s, Likelihood: UNLIKELY
+Time: 6.89s, Likelihood: POSSIBLE
+Time: 7.79s, Likelihood: UNLIKELY
+Time: 8.67s, Likelihood: UNLIKELY
+Time: 9.51s, Likelihood: UNLIKELY
+Time: 10.70s, Likelihood: POSSIBLE
+Time: 11.71s, Likelihood: VERY_UNLIKELY
+Time: 12.89s, Likelihood: UNLIKELY
+Time: 13.71s, Likelihood: VERY_UNLIKELY
+Time: 14.70s, Likelihood: VERY_UNLIKELY
+Time: 15.56s, Likelihood: VERY_UNLIKELY
+Time: 16.38s, Likelihood: VERY_UNLIKELY
+Time: 17.20s, Likelihood: VERY_UNLIKELY
+Time: 18.38s, Likelihood: VERY_UNLIKELY
+Time: 19.55s, Likelihood: POSSIBLE
+Time: 20.38s, Likelihood: UNLIKELY
+Time: 21.47s, Likelihood: VERY_LIKELY
+Time: 22.58s, Likelihood: LIKELY
+Time: 23.62s, Likelihood: POSSIBLE
+Time: 24.65s, Likelihood: UNLIKELY
+Time: 25.61s, Likelihood: UNLIKELY
+Time: 26.79s, Likelihood: VERY_UNLIKELY
+Time: 27.76s, Likelihood: UNLIKELY
+Time: 28.72s, Likelihood: VERY_LIKELY
+Time: 29.86s, Likelihood: VERY_UNLIKELY
+Time: 30.67s, Likelihood: VERY_UNLIKELY
+Time: 31.81s, Likelihood: UNLIKELY
+Time: 32.89s, Likelihood: UNLIKELY
+Time: 33.96s, Likelihood: UNLIKELY
+Time: 34.96s, Likelihood: VERY_UNLIKELY
+Time: 36.12s, Likelihood: VERY_UNLIKELY
+Time: 37.13s, Likelihood: POSSIBLE
+Time: 38.25s, Likelihood: UNLIKELY
+Time: 39.35s, Likelihood: UNLIKELY
+Time: 40.53s, Likelihood: VERY_UNLIKELY
+Time: 41.41s, Likelihood: VERY_UNLIKELY
+Time: 42.56s, Likelihood: VERY_UNLIKELY
+Time: 43.54s, Likelihood: UNLIKELY
+Time: 44.48s, Likelihood: UNLIKELY
+Time: 45.35s, Likelihood: UNLIKELY
+Time: 46.19s, Likelihood: UNLIKELY
+Time: 47.28s, Likelihood: UNLIKELY
+Time: 48.41s, Likelihood: POSSIBLE
+Time: 49.53s, Likelihood: UNLIKELY
+Time: 50.73s, Likelihood: UNLIKELY
+Time: 51.57s, Likelihood: UNLIKELY
+Time: 52.69s, Likelihood: UNLIKELY
+Time: 53.61s, Likelihood: UNLIKELY
+Time: 54.69s, Likelihood: UNLIKELY
+Time: 55.62s, Likelihood: VERY_UNLIKELY
+Time: 56.67s, Likelihood: VERY_UNLIKELY
+Time: 57.73s, Likelihood: VERY_UNLIKELY
+Time: 58.74s, Likelihood: VERY_UNLIKELY
+Time: 59.62s, Likelihood: UNLIKELY
+Time: 60.48s, Likelihood: POSSIBLE
+Time: 61.34s, Likelihood: POSSIBLE
+Time: 62.46s, Likelihood: UNLIKELY
+Time: 63.51s, Likelihood: LIKELY
+Time: 64.63s, Likelihood: LIKELY
+Time: 65.69s, Likelihood: UNLIKELY
+Time: 66.84s, Likelihood: UNLIKELY
+Time: 67.84s, Likelihood: UNLIKELY
+Time: 68.64s, Likelihood: UNLIKELY
+Time: 69.67s, Likelihood: POSSIBLE
+Time: 70.71s, Likelihood: UNLIKELY
+Time: 71.77s, Likelihood: VERY_LIKELY
+Time: 72.63s, Likelihood: UNLIKELY
+Time: 73.83s, Likelihood: UNLIKELY
+Time: 74.69s, Likelihood: UNLIKELY
+Time: 75.74s, Likelihood: UNLIKELY
+Time: 76.85s, Likelihood: UNLIKELY
+Time: 77.94s, Likelihood: UNLIKELY
+Time: 78.78s, Likelihood: UNLIKELY
+Time: 79.89s, Likelihood: UNLIKELY
+Time: 80.94s, Likelihood: UNLIKELY
+Time: 82.11s, Likelihood: UNLIKELY
+Time: 83.19s, Likelihood: UNLIKELY
+Time: 84.26s, Likelihood: UNLIKELY
+Time: 85.17s, Likelihood: UNLIKELY
+Time: 86.09s, Likelihood: POSSIBLE
+Time: 87.15s, Likelihood: UNLIKELY
+Time: 88.22s, Likelihood: LIKELY
+Time: 89.22s, Likelihood: LIKELY
+Time: 90.27s, Likelihood: VERY_LIKELY
+Time: 91.25s, Likelihood: POSSIBLE
+Time: 92.35s, Likelihood: VERY_UNLIKELY
+Time: 93.47s, Likelihood: UNLIKELY
+Time: 94.53s, Likelihood: UNLIKELY
+Time: 95.52s, Likelihood: UNLIKELY
+Time: 96.47s, Likelihood: UNLIKELY
+Time: 97.55s, Likelihood: UNLIKELY
+Time: 98.69s, Likelihood: UNLIKELY
+Time: 99.57s, Likelihood: VERY_LIKELY
+Time: 100.73s, Likelihood: POSSIBLE
+Time: 101.54s, Likelihood: POSSIBLE
+Time: 102.35s, Likelihood: VERY_UNLIKELY
+Time: 103.25s, Likelihood: UNLIKELY
+Time: 104.39s, Likelihood: UNLIKELY
+Time: 105.20s, Likelihood: POSSIBLE
+Time: 106.36s, Likelihood: UNLIKELY
+Time: 107.43s, Likelihood: UNLIKELY
+Time: 108.28s, Likelihood: UNLIKELY
+Time: 109.45s, Likelihood: UNLIKELY
+Time: 110.37s, Likelihood: VERY_UNLIKELY
+Time: 111.28s, Likelihood: UNLIKELY
+Time: 112.42s, Likelihood: UNLIKELY
+Time: 113.40s, Likelihood: VERY_UNLIKELY
+Time: 114.56s, Likelihood: UNLIKELY
+Time: 115.47s, Likelihood: VERY_UNLIKELY
+Time: 116.29s, Likelihood: UNLIKELY
+Time: 117.13s, Likelihood: UNLIKELY
+Time: 118.16s, Likelihood: POSSIBLE
+Time: 119.14s, Likelihood: VERY_UNLIKELY
+Time: 120.10s, Likelihood: UNLIKELY
+Time: 121.16s, Likelihood: UNLIKELY
+Time: 122.27s, Likelihood: UNLIKELY
+Time: 123.35s, Likelihood: VERY_UNLIKELY
+Time: 124.43s, Likelihood: VERY_UNLIKELY
+Time: 125.54s, Likelihood: VERY_UNLIKELY
+Time: 126.72s, Likelihood: VERY_UNLIKELY
+Time: 127.61s, Likelihood: VERY_UNLIKELY
+Time: 128.79s, Likelihood: UNLIKELY
+Time: 129.81s, Likelihood: POSSIBLE
+Time: 130.88s, Likelihood: UNLIKELY
+Time: 131.92s, Likelihood: UNLIKELY
+Time: 133.11s, Likelihood: VERY_UNLIKELY
+Time: 134.04s, Likelihood: VERY_UNLIKELY
+Time: 135.01s, Likelihood: VERY_UNLIKELY
+Time: 135.84s, Likelihood: UNLIKELY
+Time: 136.93s, Likelihood: UNLIKELY
+Time: 137.94s, Likelihood: VERY_UNLIKELY
+Time: 138.96s, Likelihood: UNLIKELY
+Time: 139.90s, Likelihood: VERY_UNLIKELY
+Time: 140.95s, Likelihood: VERY_UNLIKELY
+Time: 142.03s, Likelihood: VERY_UNLIKELY
+Time: 143.09s, Likelihood: UNLIKELY
+Time: 144.11s, Likelihood: UNLIKELY
+Time: 145.13s, Likelihood: POSSIBLE
+Time: 146.30s, Likelihood: UNLIKELY
+Time: 147.15s, Likelihood: VERY_UNLIKELY
+Time: 148.23s, Likelihood: UNLIKELY
+Time: 149.31s, Likelihood: UNLIKELY
+Time: 150.24s, Likelihood: UNLIKELY
+Time: 151.38s, Likelihood: UNLIKELY
+Time: 152.23s, Likelihood: VERY_UNLIKELY
+Time: 153.28s, Likelihood: UNLIKELY
+Time: 154.43s, Likelihood: UNLIKELY
+Time: 155.29s, Likelihood: UNLIKELY
+Time: 156.36s, Likelihood: UNLIKELY
+Time: 157.30s, Likelihood: VERY_UNLIKELY
+Time: 158.49s, Likelihood: VERY_UNLIKELY
+Time: 159.60s, Likelihood: VERY_UNLIKELY
+Time: 160.41s, Likelihood: VERY_UNLIKELY
+Time: 161.37s, Likelihood: UNLIKELY
+Time: 162.31s, Likelihood: UNLIKELY
+Time: 163.20s, Likelihood: UNLIKELY
+Time: 164.07s, Likelihood: UNLIKELY
+Time: 165.22s, Likelihood: UNLIKELY
+Time: 166.41s, Likelihood: LIKELY
+Time: 167.54s, Likelihood: VERY_UNLIKELY
+Time: 168.63s, Likelihood: UNLIKELY
+Time: 169.65s, Likelihood: UNLIKELY
+Time: 170.55s, Likelihood: UNLIKELY
+Time: 171.43s, Likelihood: VERY_UNLIKELY
+Time: 172.56s, Likelihood: UNLIKELY
+Time: 173.52s, Likelihood: POSSIBLE
+Time: 174.55s, Likelihood: UNLIKELY
+Time: 175.36s, Likelihood: UNLIKELY
+Time: 176.56s, Likelihood: VERY_UNLIKELY
+Time: 177.38s, Likelihood: VERY_UNLIKELY
+Time: 178.55s, Likelihood: UNLIKELY
+Time: 179.60s, Likelihood: VERY_UNLIKELY
+Time: 180.60s, Likelihood: VERY_UNLIKELY
+Time: 181.71s, Likelihood: VERY_UNLIKELY
+Time: 182.79s, Likelihood: VERY_UNLIKELY
+Time: 183.97s, Likelihood: VERY_UNLIKELY
+Time: 184.81s, Likelihood: UNLIKELY
+Time: 185.98s, Likelihood: UNLIKELY
+Time: 187.04s, Likelihood: VERY_UNLIKELY
+Time: 187.98s, Likelihood: VERY_UNLIKELY
+Time: 188.93s, Likelihood: UNLIKELY
+Time: 189.83s, Likelihood: UNLIKELY
+Time: 190.80s, Likelihood: UNLIKELY
+Time: 191.94s, Likelihood: UNLIKELY
+Time: 192.99s, Likelihood: LIKELY
+Time: 194.10s, Likelihood: UNLIKELY
+Time: 195.15s, Likelihood: UNLIKELY
+Time: 196.06s, Likelihood: UNLIKELY
+Time: 196.91s, Likelihood: UNLIKELY
+Time: 198.02s, Likelihood: UNLIKELY
+Time: 199.05s, Likelihood: UNLIKELY
+Time: 199.89s, Likelihood: UNLIKELY
+Time: 200.72s, Likelihood: POSSIBLE
+Time: 201.64s, Likelihood: UNLIKELY
+Time: 202.56s, Likelihood: UNLIKELY
+Time: 203.74s, Likelihood: UNLIKELY
+Time: 204.94s, Likelihood: POSSIBLE
+Time: 206.09s, Likelihood: POSSIBLE
+Time: 206.96s, Likelihood: UNLIKELY
+Time: 207.93s, Likelihood: UNLIKELY
+Time: 208.90s, Likelihood: UNLIKELY
+Time: 210.00s, Likelihood: UNLIKELY
+Time: 211.19s, Likelihood: UNLIKELY
+Time: 212.15s, Likelihood: UNLIKELY
+Time: 213.15s, Likelihood: VERY_UNLIKELY
+Time: 214.11s, Likelihood: VERY_UNLIKELY
+Time: 215.04s, Likelihood: VERY_UNLIKELY
+Time: 215.87s, Likelihood: UNLIKELY
+Time: 216.74s, Likelihood: UNLIKELY
+Time: 217.77s, Likelihood: UNLIKELY
+Time: 218.68s, Likelihood: UNLIKELY
+Time: 219.73s, Likelihood: UNLIKELY
+Time: 220.83s, Likelihood: VERY_UNLIKELY
+Time: 222.01s, Likelihood: VERY_UNLIKELY
+Time: 223.01s, Likelihood: VERY_UNLIKELY
+Time: 223.91s, Likelihood: VERY_UNLIKELY
+Time: 224.86s, Likelihood: UNLIKELY
+Time: 225.75s, Likelihood: UNLIKELY
+Time: 226.77s, Likelihood: VERY_UNLIKELY
+Time: 227.93s, Likelihood: UNLIKELY
+Time: 229.04s, Likelihood: UNLIKELY
+Time: 230.15s, Likelihood: UNLIKELY
+Time: 231.07s, Likelihood: UNLIKELY
+Time: 232.03s, Likelihood: UNLIKELY
+Time: 232.85s, Likelihood: UNLIKELY
+Time: 233.71s, Likelihood: UNLIKELY
+Time: 234.87s, Likelihood: UNLIKELY
+Time: 235.86s, Likelihood: UNLIKELY
+Time: 237.00s, Likelihood: UNLIKELY
+Time: 238.14s, Likelihood: UNLIKELY
+Time: 239.33s, Likelihood: VERY_UNLIKELY
+Time: 240.29s, Likelihood: VERY_UNLIKELY
+Time: 241.34s, Likelihood: POSSIBLE
+Time: 242.30s, Likelihood: UNLIKELY
+Time: 243.27s, Likelihood: POSSIBLE
+Time: 244.25s, Likelihood: UNLIKELY
+Time: 245.29s, Likelihood: UNLIKELY
+Time: 246.10s, Likelihood: LIKELY
+Time: 247.04s, Likelihood: UNLIKELY
+Time: 248.12s, Likelihood: UNLIKELY
+Time: 249.13s, Likelihood: UNLIKELY
+Time: 250.01s, Likelihood: UNLIKELY
+Time: 250.92s, Likelihood: UNLIKELY
+Time: 252.04s, Likelihood: VERY_UNLIKELY
+Time: 253.18s, Likelihood: VERY_UNLIKELY
+Time: 254.22s, Likelihood: VERY_UNLIKELY
+Time: 255.17s, Likelihood: VERY_UNLIKELY
+Time: 256.04s, Likelihood: UNLIKELY
+Time: 257.17s, Likelihood: UNLIKELY
+Time: 258.20s, Likelihood: VERY_UNLIKELY
+Time: 259.35s, Likelihood: VERY_UNLIKELY
+Time: 260.52s, Likelihood: VERY_UNLIKELY
+Time: 261.49s, Likelihood: VERY_UNLIKELY
+Time: 262.62s, Likelihood: VERY_UNLIKELY
+Time: 263.72s, Likelihood: VERY_UNLIKELY
+Time: 264.86s, Likelihood: UNLIKELY
+Time: 265.71s, Likelihood: UNLIKELY
+Time: 266.69s, Likelihood: UNLIKELY
+Time: 267.56s, Likelihood: UNLIKELY
+Time: 268.73s, Likelihood: UNLIKELY
+Time: 269.70s, Likelihood: UNLIKELY
+Time: 270.64s, Likelihood: POSSIBLE
+Time: 271.55s, Likelihood: VERY_UNLIKELY
+Time: 272.71s, Likelihood: UNLIKELY
+Time: 273.90s, Likelihood: UNLIKELY
+Time: 274.78s, Likelihood: UNLIKELY
+Time: 275.90s, Likelihood: VERY_UNLIKELY
+Time: 276.74s, Likelihood: UNLIKELY
+Time: 277.83s, Likelihood: POSSIBLE
+Time: 278.99s, Likelihood: LIKELY
+Time: 279.81s, Likelihood: UNLIKELY
+Time: 280.98s, Likelihood: UNLIKELY
+Time: 282.17s, Likelihood: VERY_UNLIKELY
+Time: 282.97s, Likelihood: UNLIKELY
+Time: 283.80s, Likelihood: VERY_LIKELY
+Time: 284.61s, Likelihood: VERY_LIKELY
+Time: 285.55s, Likelihood: UNLIKELY
+Time: 286.54s, Likelihood: VERY_UNLIKELY
+Time: 287.45s, Likelihood: UNLIKELY
+Time: 288.49s, Likelihood: UNLIKELY
+Time: 289.47s, Likelihood: POSSIBLE
+Time: 290.27s, Likelihood: UNLIKELY
+Time: 291.22s, Likelihood: POSSIBLE
+Time: 292.26s, Likelihood: UNLIKELY
+Time: 293.34s, Likelihood: LIKELY
+Time: 294.20s, Likelihood: LIKELY
+Time: 295.25s, Likelihood: POSSIBLE
+Time: 296.45s, Likelihood: LIKELY
+Time: 297.65s, Likelihood: UNLIKELY
+Time: 298.53s, Likelihood: UNLIKELY
+Time: 299.51s, Likelihood: UNLIKELY
+Time: 300.61s, Likelihood: POSSIBLE
+Time: 301.48s, Likelihood: LIKELY
+Time: 302.42s, Likelihood: UNLIKELY
+Time: 303.43s, Likelihood: POSSIBLE
+Time: 304.42s, Likelihood: LIKELY
+Time: 305.30s, Likelihood: LIKELY
+Time: 306.33s, Likelihood: UNLIKELY
+Time: 307.23s, Likelihood: VERY_UNLIKELY
+Time: 308.38s, Likelihood: POSSIBLE
+Time: 309.27s, Likelihood: UNLIKELY
+Time: 310.08s, Likelihood: UNLIKELY
+Time: 310.95s, Likelihood: UNLIKELY
+Time: 311.93s, Likelihood: POSSIBLE
+Time: 312.91s, Likelihood: LIKELY
+Time: 313.83s, Likelihood: UNLIKELY
+Time: 314.64s, Likelihood: UNLIKELY
+Time: 315.63s, Likelihood: POSSIBLE
+Time: 316.55s, Likelihood: POSSIBLE
+Time: 317.62s, Likelihood: VERY_UNLIKELY
+Time: 318.52s, Likelihood: VERY_UNLIKELY
+Time: 319.60s, Likelihood: VERY_UNLIKELY
+Time: 320.54s, Likelihood: VERY_UNLIKELY
+Time: 321.39s, Likelihood: VERY_UNLIKELY
+Time: 322.32s, Likelihood: VERY_UNLIKELY
+Time: 323.42s, Likelihood: VERY_UNLIKELY
+Time: 324.51s, Likelihood: VERY_UNLIKELY
+Time: 325.58s, Likelihood: VERY_UNLIKELY
+Time: 326.45s, Likelihood: VERY_UNLIKELY
+Time: 327.40s, Likelihood: VERY_UNLIKELY
+Time: 328.46s, Likelihood: VERY_UNLIKELY
+Time: 329.31s, Likelihood: VERY_UNLIKELY
+Time: 330.26s, Likelihood: VERY_UNLIKELY
+
+------------------------------SHOT CHANGE---------------------------------------
+Processing CAPYBARA FAMILY for shot change detection...
+Shot change detection results:
+Shot from 0.03s to 3.24s
+Shot from 3.27s to 5.81s
+Shot from 5.84s to 8.74s
+Shot from 8.78s to 11.81s
+Shot from 11.85s to 14.75s
+Shot from 14.78s to 18.18s
+Shot from 18.22s to 22.32s
+Shot from 22.36s to 25.29s
+Shot from 25.33s to 30.60s
+Shot from 30.63s to 36.90s
+Shot from 36.94s to 39.11s
+Shot from 39.14s to 43.28s
+Shot from 43.31s to 45.48s
+Shot from 45.51s to 58.89s
+Shot from 58.93s to 61.73s
+Shot from 61.76s to 65.57s
+Shot from 65.60s to 72.44s
+Shot from 72.47s to 80.51s
+Shot from 80.55s to 80.71s
+Processing RAINBOW DASH EATS DIRT for shot change detection...
+Shot change detection results:
+Shot from 0.04s to 0.96s
+Shot from 1.00s to 2.08s
+Shot from 2.12s to 3.38s
+Shot from 3.42s to 5.38s
+Shot from 5.42s to 8.62s
+Shot from 8.67s to 9.00s
+Processing USYK-FURY HIGHLIGHTS for shot change detection...
+Shot change detection results:
+Shot from 0.04s to 6.56s
+Shot from 6.60s to 7.72s
+Shot from 7.76s to 29.40s
+Shot from 29.44s to 50.68s
+Shot from 50.72s to 53.28s
+Shot from 53.32s to 72.84s
+Shot from 72.88s to 83.68s
+Shot from 83.72s to 97.72s
+Shot from 97.76s to 98.44s
+Shot from 98.48s to 109.72s
+Shot from 109.76s to 113.20s
+Shot from 113.24s to 120.56s
+Shot from 120.60s to 125.24s
+Shot from 125.28s to 135.52s
+Shot from 135.56s to 136.24s
+Shot from 136.28s to 139.24s
+Shot from 139.28s to 146.32s
+Shot from 146.36s to 158.96s
+Shot from 159.00s to 171.04s
+Shot from 171.08s to 176.40s
+Shot from 176.44s to 180.68s
+Shot from 180.72s to 195.68s
+Processing OUTDOOR BOYS LAWYER AD for shot change detection...
+Shot change detection results:
+Shot from 0.00s to 42.41s
+Shot from 42.44s to 53.89s
+Shot from 53.92s to 58.83s
+Processing METALLICA MUSIC VIDEO for shot change detection...
+Shot change detection results:
+Shot from 0.00s to 12.60s
+Shot from 12.63s to 14.51s
+Shot from 14.54s to 15.28s
+Shot from 15.31s to 16.51s
+Shot from 16.55s to 17.75s
+Shot from 17.78s to 18.02s
+Shot from 18.05s to 18.75s
+Shot from 18.78s to 19.02s
+Shot from 19.05s to 31.05s
+Shot from 31.08s to 31.79s
+Shot from 31.82s to 47.73s
+Shot from 47.76s to 48.60s
+Shot from 48.63s to 52.34s
+Shot from 52.38s to 52.64s
+Shot from 52.68s to 53.48s
+Shot from 53.51s to 55.75s
+Shot from 55.79s to 125.34s
+Shot from 125.38s to 139.72s
+Shot from 139.75s to 180.33s
+Shot from 180.36s to 180.63s
+Shot from 180.66s to 180.93s
+Shot from 180.96s to 181.20s
+Shot from 180.96s to 181.20s
+Shot from 181.23s to 181.93s
+Shot from 181.96s to 182.63s
+Shot from 181.96s to 182.63s
+Shot from 182.67s to 230.96s
+Shot from 231.00s to 275.89s
+Shot from 182.67s to 230.96s
+Shot from 231.00s to 275.89s
+Shot from 275.92s to 279.10s
+Shot from 231.00s to 275.89s
+Shot from 275.92s to 279.10s
+Shot from 275.92s to 279.10s
+Shot from 279.13s to 280.27s
+Shot from 280.30s to 281.30s
+Shot from 279.13s to 280.27s
+Shot from 280.30s to 281.30s
+Shot from 280.30s to 281.30s
+Shot from 281.34s to 317.67s
+Shot from 317.70s to 320.18s
+Shot from 320.21s to 321.18s
+Shot from 321.21s to 322.41s
+Shot from 322.45s to 323.72s
+Shot from 323.75s to 324.75s
+Shot from 324.79s to 329.50s
+Shot from 329.53s to 330.90s
+
+------------------------------SPEECH TRANSCRIPTION------------------------------
+Processing 'OUTDOOR BOYS LAWYER AD' for speech transcription...
+
+Speech Transcription Results:
+Transcript: Hello, I'm Luke Nichols, I'm a traffic attorney here in Northern Virginia. And each year, I defend hundreds of drivers, accused of, DUIs reckless, driving and other traffic issues. I focus my practice on traffic law because my clients need an experienced traffic attorney. The Virginia traffic code contains more than twice as many laws as the entire criminal code. When a driver calls me at the traffic issue. They want to know, immediately what defenses they have what I can do for them. How much it will cost and what the likely outcome will be, I have made a career.
+Confidence: 0.91
+
+Transcript:  Route of researching traffic laws, traffic defenses and forensic issues. I regularly attend and it's a basic law enforcement training programs. I'm a member of the National College of DUI defense. And I am the author of several books on Virginia traffic law. If you've been accused of a traffic offense, big or small call my office, I'll be happy to talk to you about your case, over the phone or in person. All consultations are free and confidential.
+Confidence: 0.71
+
+Transcript:
+Confidence: 0.00
+
+Processing 'RAINBOW DASH EATS DIRT' for speech transcription...
+
+Speech Transcription Results:
+Transcript: You can't sell that shatter.
+Confidence: 0.91
